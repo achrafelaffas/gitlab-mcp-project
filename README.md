@@ -19,14 +19,16 @@ A Model Context Protocol (MCP) server built with Java Spring Boot that provides 
 
 ## Gallery
 
+Ask him about open issues in your projects:
 ![Screenshot](./docs/images/ezgif-8d6651a53c2c72.gif)
 
+Tell him to list your projects on gitlab:
 ![Screenshot](./docs/images/ezgif-80bd1a8ef28dc5.gif)
 
+Ask him about pipelines and he can also retry them for you: 
 ![Screenshot](./docs/images/ezgif-10bea8f1514edf.gif)
 
-![Screenshot](./docs/images/ezgif-8294008dbce6b1.gif)
-
+Ask him information about branches:
 ![Screenshot](./docs/images/ezgif-8420386f08c4ac.gif)
 
 ## Installation
