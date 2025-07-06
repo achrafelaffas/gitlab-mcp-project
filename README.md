@@ -17,17 +17,19 @@ A Model Context Protocol (MCP) server built with Java Spring Boot that provides 
 - GitLab account with API access
 - GitLab Personal Access Token
 
-## Installation
-
 ## Gallery
 
 ![Screenshot](./docs/images/ezgif-8d6651a53c2c72.gif)
+
 ![Screenshot](./docs/images/ezgif-80bd1a8ef28dc5.gif)
+
 ![Screenshot](./docs/images/ezgif-85f242a7d50c07.gif)
+
 ![Screenshot](./docs/images/ezgif-8294008dbce6b1.gif)
+
 ![Screenshot](./docs/images/ezgif-8420386f08c4ac.gif)
 
-_
+## Installation
 
 1. Clone the repository:
 ```bash
