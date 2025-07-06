@@ -23,7 +23,7 @@ A Model Context Protocol (MCP) server built with Java Spring Boot that provides 
 
 ![Screenshot](./docs/images/ezgif-80bd1a8ef28dc5.gif)
 
-![Screenshot](./docs/images/ezgif-85f242a7d50c07.gif)
+![Screenshot](./docs/images/ezgif-10bea8f1514edf.gif)
 
 ![Screenshot](./docs/images/ezgif-8294008dbce6b1.gif)
 
